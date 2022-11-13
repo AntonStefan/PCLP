@@ -1,0 +1,8 @@
+problema1 - 3:30h
+Functia is_anagram() verifica daca doua cuvinte sunt anagrame folosindu-se de un vector de frecventa de litere.
+Functia compute_grade() returneaza gradul anagramelor cerut in enuntul problemei.
+Int main() in care am sortat perechiile de anagrame prin bubble sort.
+problema2 -  3h
+Am functia verifica care verifica daca se ataca un nebun cu alti nebuni. Functia fill pune 1 pe diagonalelepe care ataca nebunii, dupa in main urmand sa pun in matrice nebunii alocandu-le 1. Avem variabila ans care calculeaza cate perechi de nebuni se ataca, iar dupa verificam pentru cazul particular 1 daca putem muta un nebun astfel incat acesta sa nu se mai atace cu niciun nebun. Dupa verificam daca exista spatii goale, pe care putem sa mutam nebunul care se ataca astfel incat sa nu mai existe o pereche de nebuni care se ataca.
+problema4 - 4:30h
+Avem functia pentru baza 2, inmultire de matrice pentru A^2,transpusa pentru At, sum_X_0 care contine functia de scor in care se calculeaza impartind matricea in 4 matrici de 4 pe 4 si luand fiecare caz in parte, si la final o functie care transforma inapoi in baza 8. 

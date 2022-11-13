@@ -1,0 +1,21 @@
+ros gal albs vd port alb
+gal.port.port
+albs.albs.alb
+ros.port.alb
+alb.albs.alb
+alb.vd.gal
+ros.gal.port
+albs.gal.vd
+albs.gal.ros
+port.gal.alb
+albs.vd.albs
+albs.alb.port
+gal.vd.gal
+ros.alb.albs
+ros.port.ros
+vd.port.gal
+vd.vd.ros
+vd.ros.ros
+port.alb.vd
+88
+R L L F B' D B' L' L F D' F' U F B L L F L' L L L F' R' F' F' F' L' L L U F' L' F D' U' D' R F B L D F R L' U' R' B' F L F' B' D R R' F F L U U U R' F' B' F' R F' D' F' U' B' F' B U' B' D B' D L' B D' F F B L R' L' U'

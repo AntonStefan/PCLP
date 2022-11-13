@@ -1,0 +1,21 @@
+ros gal albs vd port alb
+gal.port.port
+albs.albs.alb
+ros.port.alb
+alb.albs.alb
+alb.vd.gal
+ros.gal.port
+albs.gal.vd
+albs.gal.ros
+port.gal.alb
+albs.vd.albs
+albs.alb.port
+gal.vd.gal
+ros.alb.albs
+ros.port.ros
+vd.port.gal
+vd.vd.ros
+vd.ros.ros
+port.alb.vd
+31
+R D' D' L L' D D F' B' R F B U' D F' R B B' U' B R' D' R' R F D' U B' D U D
